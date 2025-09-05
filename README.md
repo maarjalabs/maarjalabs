@@ -1,4 +1,26 @@
-## Hi there 👋 
+# 🌍 Global Cybersecurity Contractor
+
+🇪🇪 🇨🇭 🇺🇸 🇲🇽  
+**Security+ | Splunk | Azure | Python | SQL | Linux**
+
+---
+
+🔹 International IT Contractor – Cloud & Cybersecurity  
+🔹 Experienced in enterprise projects and contractor roles  
+🔹 Open to remote & global contracts  
+
+---
+
+## 🔧 Tools & Skills
+- Python, SQL, Linux
+- Cloud Security (Azure)
+- SIEM & Splunk
+- Incident Response & Ops
+
+---
+
+## 📈 GitHub Stats
+
 
 <!--
 **maarjalabs/maarjalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
