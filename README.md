@@ -21,10 +21,10 @@
 
 ## 🚀 Highlight Projects
 
-🔹 [ThreadBlue/home-soc-lab-splunk-wazuh](https://github.com/ThreadBlue/home-soc-lab-splunk-wazuh)  
+🔹 [Thread-Blue/home-soc-lab-splunk-wazuh](https://github.com/Thread-Blue/home-soc-lab-splunk-wazuh)  
 End-to-end SOC simulation with Splunk dashboards & Wazuh SIEM.
 
-🔹 [ThreadBlue/cybersecurity-scripts](https://github.com/ThreadBlue/cybersecurity-scripts)  
+🔹 [Thread-Blue/cybersecurity-scripts](https://github.com/Thread-Blue/cybersecurity-scripts)  
 Python & SQL tools for security automation and log analysis.
 <!--
 **maarjalabs/maarjalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
