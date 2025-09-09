@@ -1,42 +1,34 @@
-# 🌍 Global Cybersecurity Contractor
+# 🌍 Global Cybersecurity & Automation Specialist  
 
 🇪🇪 🇨🇭 🇺🇸 🇲🇽  
-**Security+ | Splunk | Azure | Python | SQL | Linux**
+**Security+ | Splunk | Azure | Python | SQL | Linux | Automation**  
 
 ---
 
-🔹 International IT Contractor – Cloud & Cybersecurity  
-🔹 Experienced in enterprise projects and contractor roles  
-🔹 Open to remote & global contracts  
+🔹 International IT & Cybersecurity Contractor  
+🔹 Focused on compliance automation, data security, and process efficiency  
+🔹 Open to remote & global contract roles  
 
 ---
 
-## 🔧 Tools & Skills
-- Python, SQL, Linux
-- Cloud Security (Azure)
-- SIEM & Splunk
-- Incident Response & Ops
+## 🔧 Tools & Skills  
+- Python & SQL automation  
+- Cloud Security (Azure)  
+- SIEM (Splunk) & log analysis  
+- Compliance workflows & reporting  
+- Incident response support  
 
 ---
 
-## 🚀 Highlight Projects
-
-🔹 [Thread-Blue/home-soc-lab-splunk-wazuh](https://github.com/Thread-Blue/home-soc-lab-splunk-wazuh)  
-End-to-end SOC simulation with Splunk dashboards & Wazuh SIEM.
+## 🚀 Highlight Projects  
 
 🔹 [Thread-Blue/cybersecurity-scripts](https://github.com/Thread-Blue/cybersecurity-scripts)  
-Python & SQL tools for security automation and log analysis.
-<!--
-**maarjalabs/maarjalabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python & SQL tools for log analysis, detection, and automation.  
 
-Here are some ideas to get you started:
+🔹 [maarjalabs/compliance-automation](https://github.com/maarjalabs/compliance-automation)  
+Automation framework for compliance and reporting tasks.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 [maarjalabs/food-automation](https://github.com/maarjalabs/food-automation)  
+Exploring practical automation for food industry and process control.  
+
+---
