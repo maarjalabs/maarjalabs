@@ -21,6 +21,7 @@
 ---
 
 ## 🚀 Highlight Projects  
+🔹 [**soc-lab-projects**](https://github.com/thread-blue/soc-lab-projects) | End-to-end SOC lab with Splunk, Wazuh (SIEM), Suricata IDS, and DNS filtering. Built for log analysis, alerting, and automation. |
 
 🔹 [Thread-Blue/cybersecurity-scripts](https://github.com/Thread-Blue/cybersecurity-scripts)  
 Python & SQL tools for log analysis, detection, and automation.  
