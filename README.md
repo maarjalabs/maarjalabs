@@ -1,6 +1,6 @@
 # 🌍 Global Cybersecurity & Automation Specialist  
 
-🇪🇪 🇨🇭 🇺🇸 🇲🇽  
+🇪🇪 🇨🇦 🇺🇸 
 **Security+ | Splunk | Azure | Python | SQL | Linux | Automation**  
 
 ---
